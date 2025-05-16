@@ -1,0 +1,1 @@
+import{_ as e,t as s,v as o,x as a,y as l,H as r}from"./CSiNRAJO.js";const c={class:"text-title"},n={__name:"titleTitle",props:{slug:String,textColor:{type:String,required:!1,default:"#1E293B"}},setup(t){return(_,i)=>(o(),s("div",c,[a("p",{class:"title-p",style:r({color:t.textColor})},l(t.slug),5)]))}},d=e(n,[["__scopeId","data-v-19dad1df"]]);export{d as _};
